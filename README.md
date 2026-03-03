@@ -1,78 +1,169 @@
-# LAB Bitcoin Developer Curriculum
+# LAB 6-Month Bitcoin Intensive Bootcamp Curriculum
 
-Structured 6-month Bitcoin developer bootcamp curriculum with contributor sprint and incubation model.
+Comprehensive curriculum framework for the Let Africa Build (LAB) Bitcoin Layer 1 (L1) and Layer 2 (L2) developer training program.
 
-## Overview
+---
 
-Let Africa Build (LAB) is a structured Bitcoin developer formation initiative focused on increasing African participation in Bitcoin and Lightning open-source development.
+## Program Overview
 
-This repository outlines the curriculum framework for LAB's 6-month Bitcoin Bootcamp, followed by a 3–4 month Contributor Sprint & Incubation phase.
+The LAB 6-Month Bitcoin Intensive Bootcamp is a structured technical program designed to transition participants from programming foundations to protocol-level Bitcoin and Layer 2 development.
 
-## Program Structure
+The program integrates:
 
-### Phase 1 – Foundations (Months 1–3)
+- Programming foundations
+- Repository discipline
+- Bitcoin Core protocol understanding
+- Lightning Network infrastructure
+- Clarity smart contract development
+- Applied open-source engagement
 
-Focus: Core Bitcoin knowledge and technical grounding.
+Practical contribution and GitHub-based output are embedded throughout the curriculum.
 
-Modules include:
+---
 
-- Bitcoin fundamentals and transaction lifecycle
-- UTXO model and scripting basics
-- Node interaction and infrastructure concepts
-- Introduction to Lightning Network
-- Open-source collaboration fundamentals
+## Program Structure (6 Months)
 
-Learning Outcomes:
+The curriculum progresses through structured technical layers.
 
-- Understand Bitcoin architecture and transaction flow
-- Operate and interact with Bitcoin nodes
-- Understand Lightning payment channels
-- Navigate structured technical collaboration workflows
+---
 
-### Phase 2 – Advanced Development (Months 4–6)
+## Phase 1: Programming & Collaboration Foundations
 
-Focus: Infrastructure experimentation and applied development.
+### JavaScript & TypeScript
 
-Modules include:
+Participants build fluency in:
 
-- Lightning infrastructure experimentation
-- Infrastructure tooling and monitoring
-- Bitcoin Layer 2 environments (including Stacks)
-- Applied project development
+- Core language syntax and control flow
+- Functions and modular design
+- Data structures and logic reasoning
+- TypeScript typing discipline
+- Debugging and structured testing habits
 
-Learning Outcomes:
+### Git & GitHub Collaboration
 
-- Build infrastructure-focused prototypes
-- Deploy and test node environments
-- Contribute to open repositories
-- Collaborate in technical teams
+Participants learn:
 
-### Phase 3 – Contributor Sprint & Incubation (Months 7–9/10)
+- Repository setup and organization
+- Branching workflows
+- Commit standards
+- Pull request processes
+- Code review etiquette
+- Issue tracking discipline
 
-Focus: Public repository contribution and infrastructure refinement.
+**Practical Work**
+- Weekly coding assignments committed to GitHub
+- Structured repository management exercises
 
-Components include:
+---
 
-- Structured contributor sprints
-- Mentored pull request cycles
-- Infrastructure prototype refinement
-- National Bitcoin-focused hackathon
-- Performance-based Contributor Fellowship
+## Phase 2: Bitcoin Layer 1 (L1) Foundations
 
-Learning Outcomes:
+### Bitcoin Core & CLI
 
-- Submit and review pull requests
-- Participate in open-source workflows
-- Refine deployable infrastructure experiments
-- Transition into sustained contribution
+Participants develop:
 
-## Delivery Model
+- Node interaction skills
+- Blockchain inspection discipline
+- Command-line experimentation
+- Chain analysis reasoning
 
-- Hybrid model (LMS + Regional Bitcoin Labs)
-- Structured mentorship
-- Performance-based assessment
-- Public repository engagement
+### Transactions & Scripts
+
+Participants learn:
+
+- UTXO model mechanics
+- Raw transaction construction
+- Transaction signing
+- Script evaluation and debugging
+- Multisig concepts
+- PSBT workflows
+
+**Practical Work**
+- Documented CLI experiments
+- Reproducible transaction exercises
+- Script debugging walkthroughs
+
+---
+
+## Phase 3: Bitcoin Layer 2 – Lightning Network
+
+Participants study:
+
+- Lightning Network architecture
+- Channel lifecycle management
+- HTLC routing mechanics
+- Liquidity concepts
+- Node configuration and operation
+
+**Practical Work**
+- Lightning node setup
+- Channel management exercises
+- Operational documentation logs
+
+---
+
+## Phase 4: Layer 2 Smart Contracts (Clarity)
+
+Participants are introduced to applied L2 development through:
+
+- Clarity smart contract syntax
+- State management principles
+- Contract testing and debugging
+- Deployment to testnet
+- Contract review and refinement
+
+**Practical Work**
+- Structured contract repositories
+- Unit testing exercises
+- Deployment documentation
+
+---
+
+## Applied Contribution Integration
+
+Open-source contribution is embedded throughout relevant modules.
+
+Participants are required to:
+
+- Maintain clean GitHub repositories
+- Submit structured assignments via pull requests (where applicable)
+- Document protocol experiments
+- Demonstrate repository discipline
+- Engage in peer review exercises
+
+Contribution is assessed as part of module performance.
+
+---
+
+## Assessment Model
+
+Participants are evaluated based on:
+
+- Technical correctness
+- Code clarity
+- Repository hygiene
+- Documentation quality
+- Protocol-level understanding
+- Consistency of GitHub activity
+
+Graduation requires demonstrated competence across foundational and applied modules.
+
+---
+
+## Post-Bootcamp Incubator (3–4 Months)
+
+High-performing participants may be selected into the LAB Incubator track, focused on:
+
+- Advanced Bitcoin infrastructure tools
+- Lightning-based systems
+- Clarity-based application development
+- Research and experimentation
+- Infrastructure refinement
+
+Incubator selection is performance-based.
+
+---
 
 ## Objective
 
-To develop technically capable Bitcoin contributors and infrastructure builders across Africa through structured, measurable training.
+To produce technically disciplined developers capable of engaging meaningfully with Bitcoin Layer 1 infrastructure, Lightning Network systems, and Layer 2 smart contract environments, while maintaining structured open-source repository discipline.
