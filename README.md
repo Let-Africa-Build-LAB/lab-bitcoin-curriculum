@@ -4,6 +4,22 @@ Comprehensive curriculum framework for the Let Africa Build (LAB) Bitcoin Layer 
 
 ---
 
+## Table of Contents
+
+- [Program Overview](#program-overview)
+- [Curriculum Roadmap](#curriculum-roadmap)
+- [Program Structure](#program-structure-6-months)
+  - [Phase 1: Programming & Collaboration Foundations](#phase-1-programming--collaboration-foundations)
+  - [Phase 2: Bitcoin Layer 1 Foundations](#phase-2-bitcoin-layer-1-l1-foundations)
+  - [Phase 3: Lightning Network](#phase-3-bitcoin-layer-2--lightning-network)
+  - [Phase 4: Clarity Development](#phase-4-layer-2-smart-contracts-clarity)
+- [Applied Contribution Integration](#applied-contribution-integration)
+- [Assessment Model](#assessment-model)
+- [Post-Bootcamp Incubator](#post-bootcamp-incubator-34-months)
+- [Objective](#objective)
+
+---
+
 ## Program Overview
 
 The LAB 6-Month Bitcoin Intensive Bootcamp is a structured technical program designed to transition participants from programming foundations to protocol-level Bitcoin and Layer 2 development.
@@ -18,6 +34,21 @@ The program integrates:
 - Applied open-source engagement
 
 Practical contribution and GitHub-based output are embedded throughout the curriculum.
+
+---
+
+## Curriculum Roadmap
+
+> **Curriculum Status:** Module content is under development. Folder structure and learning objectives are defined.
+
+| Month | Module | Focus Area |
+|:-----:|--------|------------|
+| 1 | [Bitcoin Fundamentals](month-1-bitcoin-fundamentals/) | Programming foundations, JS/TS, Git workflow |
+| 2 | [Node Operations](month-2-node-operations/) | Bitcoin Core, CLI interaction, chain analysis |
+| 3 | [Layer 2 Foundations](month-3-layer2-foundations/) | Lightning Network, channels, HTLC routing |
+| 4 | [Clarity Development](month-4-clarity-development/) | Smart contracts, state management, testnet deployment |
+| 5 | [Contributor Sprint](month-5-contributor-sprint/) | Open-source contributions, peer review, repo discipline |
+| 6 | [Capstone Project](month-6-capstone-project/) | Applied project integrating L1, L2, and Clarity skills |
 
 ---
 
